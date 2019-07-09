@@ -1,20 +1,21 @@
-Image Processing
-================
+Image Processing Workshop
+=========================
 
-- What is image
-- Image as a matrix
+- What is image?
+  - 8 bit image - each pixel can be a value from 0 to 255
+  - Image as a matrix
+  - Grayscale vs RGB image
 
-
-- Read and write image -- grayscale
+- Read and write image -- grayscale ([bit.ly/graylamp](http://bit.ly/graylamp))
 - Show image
 - See image dimensions
 - Save an image
 - Increase the brightness of an image
 - Increase the contrast of the image
-- Mirror an image
+- Mirror an image - horizontal, vertical
+- Transpose an image
 
 
 - Reduce the image size
   - Save the reduced size image
 - Convert image to grayscale
--
