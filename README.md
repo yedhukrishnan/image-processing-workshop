@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Image Processing Workshop
 =========================
 

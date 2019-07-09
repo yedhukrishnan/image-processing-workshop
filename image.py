@@ -1,4 +1,5 @@
 # Library to read and write images
+import numpy as np
 import imageio
 from matplotlib import pyplot as plt
 
@@ -26,8 +27,17 @@ for i in range(height):
         else:
             gray_image[i, j] = 255
 
-# increase the contrast of the image
+# Increase the contrast of the image
 
+# Mirror aan image
+# - horizontal
+# - vertical
+
+# Transpose image
+display_gray_image(gray_image.transpose())
+
+# Rotate image
+display_gray_image(np.rot90(lamp))
 
 display_gray_image(gray_image)
 
