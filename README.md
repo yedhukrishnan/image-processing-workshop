@@ -2,7 +2,7 @@ Image Processing Workshop
 =========================
 
 - What is image?
-  - 8 bit image - each pixel can be a value from 0 to 255
+  - 8 bit image - each pixel can be any value from 0 to 255
   - Image as a matrix
   - Grayscale vs RGB image
 
