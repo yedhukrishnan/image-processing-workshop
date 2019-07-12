@@ -1,6 +1,14 @@
 Image Processing Workshop
 =========================
 
+## A Few Useful Links to Understand and Learn
+
+- [Image processing algorithms](https://github.com/yedhukrishnan/image-processing-algorithms)
+- [Lessons on Digital Image Processing](https://medium.com/@yedhukrishnan/lessons-on-digital-image-processing-1-b7a1fa3acfe9)
+
+
+## Agenda
+
 - What is image?
   - 8 bit image - each pixel can be any value from 0 to 255
   - Image as a matrix
