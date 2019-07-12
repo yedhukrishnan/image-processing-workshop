@@ -5,7 +5,13 @@ Image Processing Workshop
 
 - [Image processing algorithms](https://github.com/yedhukrishnan/image-processing-algorithms)
 - [Lessons on Digital Image Processing](https://medium.com/@yedhukrishnan/lessons-on-digital-image-processing-1-b7a1fa3acfe9)
+- [Introduction to Image Processing in Python](https://www.python-course.eu/python_image_processing.php)
 
+### Numpy
+
+- [Quickstart tutorial](https://docs.scipy.org/doc/numpy/user/quickstart.html)
+- [Python Numpy Array Tutorial](https://www.datacamp.com/community/tutorials/python-numpy-tutorial)
+- [Python NumPy Tutorial – Learn NumPy Arrays With Examples](https://www.edureka.co/blog/python-numpy-tutorial/)
 
 ## Agenda
 
