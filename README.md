@@ -7,7 +7,7 @@ Image Processing Workshop
 - [Lessons on Digital Image Processing](https://medium.com/@yedhukrishnan/lessons-on-digital-image-processing-1-b7a1fa3acfe9)
 - [Introduction to Image Processing in Python](https://www.python-course.eu/python_image_processing.php)
 
-### Numpy
+### NumPy
 
 - [Quickstart tutorial](https://docs.scipy.org/doc/numpy/user/quickstart.html)
 - [Python Numpy Array Tutorial](https://www.datacamp.com/community/tutorials/python-numpy-tutorial)
